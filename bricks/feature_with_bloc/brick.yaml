@@ -1,0 +1,14 @@
+name: feature_with_bloc
+description: Create a new bloc feature
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  feature_name:
+    type: string
+    description: The feature name
+    default: auth
+    prompt: What is the feature name?

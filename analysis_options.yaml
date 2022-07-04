@@ -1,0 +1,5 @@
+analyzer: 
+  exclude: 
+    - bricks/feature_with_bloc/__brick__/**
+    - docs/**
+    - generated/**
