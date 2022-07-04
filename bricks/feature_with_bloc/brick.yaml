@@ -1,5 +1,7 @@
 name: feature_with_bloc
 description: Create a new bloc feature
+repository: https://github.com/ntta/mason_bricks/tree/master/bricks/feature_with_bloc
+
 
 version: 0.1.0+1
 
