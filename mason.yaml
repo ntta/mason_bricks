@@ -1,5 +1,3 @@
 bricks:
-  bloc:
-    path: bricks/bloc
   feature_with_bloc:
     path: bricks/feature_with_bloc
