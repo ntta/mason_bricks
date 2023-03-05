@@ -3,3 +3,4 @@ generated
 .mason
 .packages
 .dart_tool
+.DS_Store
