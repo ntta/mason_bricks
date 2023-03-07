@@ -1,4 +1,4 @@
-part of '{{cubit_name.snakeCase()}}_bloc.dart';
+part of '{{cubit_name.snakeCase()}}_cubit.dart';
 
 enum {{cubit_name.pascalCase()}}Status { initial, loading, success, failure }
 
