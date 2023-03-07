@@ -10,7 +10,7 @@ Just a new bloc
 
 ## Usage 🚀
 
-Navigate to the folder where your bloc logic is stored and run the below command
+Create a new bloc in location `lib/bloc`
 
 ```sh
 mason make bloc
