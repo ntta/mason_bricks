@@ -10,5 +10,5 @@ vars:
   cubit_name:
     type: string
     description: The cubit name
-    default: auth
+    default: theme
     prompt: What is the cubit name?
